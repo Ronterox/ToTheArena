@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy Goblin Blue
+  m_Controller: {fileID: 9100000, guid: ed58e20f5e3e3bf4799a1c43b68a296c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c31f83e74ed8fdd41a959d6c0595e9b0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 551099ec595edfb488989acb70bb93f9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc56ff4a7f5eebf4c8d9224d76b869f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 16542aaef099023458360c279942c375, type: 2}
